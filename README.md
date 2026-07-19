@@ -24,24 +24,48 @@
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-### Languages
+### 💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,html,css" alt="Languages" />
 </p>
 
-### Frontend
+### 🎨 CSS Frameworks & Libraries
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/daisyUI-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
 </p>
 
-### Backend & Database
+### ⚛️ JavaScript Frameworks & Libraries
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React and Next.js" />
 </p>
 
-### Tools
+### ⚙️ Backend Technologies
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js" />
 </p>
+
+### 🗄️ Databases & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" alt="PostgreSQL, MySQL and Prisma" />
+</p>
+
+### 🚀 Deployment Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Vercel and Netlify" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite" alt="Development Tools" />
+</p>
+
