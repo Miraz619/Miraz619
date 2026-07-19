@@ -71,12 +71,14 @@
 
 <br>
 
-## 📈 Contribution Activity
+<br>
+
+## 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Miraz619&theme=github-dark&hide_border=true"
-    alt="Miraz's Contribution Graph"
+    src="https://streak-stats.demolab.com?user=Miraz619&theme=github-dark-blue&hide_border=true"
+    alt="Miraz's GitHub Streak"
   />
 </p>
 
