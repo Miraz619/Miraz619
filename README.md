@@ -71,16 +71,18 @@
 
 <br>
 
-<br>
-
-## 🔥 GitHub Streak
+## 🐍 Contribution Activity
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Miraz619&theme=github-dark-blue&hide_border=true"
-    alt="Miraz's GitHub Streak"
+    src="https://raw.githubusercontent.com/Miraz619/Miraz619/output/github-contribution-grid-snake-dark.svg"
+    alt="Animated contribution snake"
   />
 </p>
+
+
+
+
 
 ## 📊 GitHub Overview
 
