@@ -69,18 +69,13 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite" alt="Development Tools" />
 </p>
 
-## 📊 GitHub Stats
+<br>
+
+## 📈 Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Miraz619&show_icons=true"
-    alt="Miraz's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miraz619&layout=compact"
-    alt="Most Used Languages"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Miraz619&theme=github-dark&hide_border=true"
+    alt="Miraz's Contribution Graph"
   />
 </p>
