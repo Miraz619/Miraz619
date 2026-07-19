@@ -21,3 +21,27 @@
 - 🌱 I’m focused on improving my skills through real-world projects and consistent practice.
 - 🌐 View my work on my [Portfolio](https://portfolio-three-jade-fsw34ad3tn.vercel.app/).
 - 📫 Reach me at **[mirazh2399@gmail.com](mailto:mirazh2399@gmail.com)**.
+
+<br>
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
