@@ -80,7 +80,16 @@
   />
 </p>
 
+<br>
 
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    alt="Miraz's 3D contribution calendar"
+  />
+</p>
 
 
 
