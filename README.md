@@ -69,3 +69,20 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite" alt="Development Tools" />
 </p>
 
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Miraz619&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Miraz's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miraz619&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
