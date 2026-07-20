@@ -106,7 +106,18 @@
   />
 </p>
 
+<br>
 
+## 🧩 Codeforces Statistics
+
+<p align="center">
+  <a href="https://codeforces.com/profile/MirazNoob">
+    <img
+      src="https://codeforces-readme-stats.vercel.app/api/card?username=MirazNoob"
+      alt="MirazNoob Codeforces Statistics"
+    />
+  </a>
+</p>
 
 
 ## 📊 GitHub Overview
