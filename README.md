@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi, I'm Miraz Hossain 👋</h1>
 
-<h3 align="center">Full Stack Developer | Backend-Focused</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   I develop modern full-stack web applications with a strong focus on backend development,
