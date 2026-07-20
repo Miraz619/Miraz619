@@ -118,7 +118,19 @@
     />
   </a>
 </p>
+<br>
 
+## 📈 Codeforces Rating Progress
+
+<p align="center">
+  <a href="https://codeforces.com/profile/MirazNoob">
+    <img
+      src="https://codeforces-stats.vercel.app/api/rating?username=MirazNoob"
+      alt="MirazNoob Codeforces rating history"
+      width="100%"
+    />
+  </a>
+</p>
 
 ## 📊 GitHub Overview
 
